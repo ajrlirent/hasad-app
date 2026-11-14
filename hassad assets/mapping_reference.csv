@@ -1,0 +1,103 @@
+index,group,category,french_name,filename,relative_path,width,height,has_alpha,qc_passed
+1,"VEHICLES","Tracteurs","Tracteur compact","tracteur_compact.png","HASAD_ASSETS/VEHICLES/tracteur_compact.png",1024,1024,true,true
+2,"VEHICLES","Tracteurs","Tracteur agricole standard","tracteur_agricole_standard.png","HASAD_ASSETS/VEHICLES/tracteur_agricole_standard.png",1024,1024,true,true
+3,"VEHICLES","Tracteurs","Tracteur enjambeur","tracteur_enjambeur.png","HASAD_ASSETS/VEHICLES/tracteur_enjambeur.png",1024,1024,true,true
+4,"VEHICLES","Tracteurs","Tracteur chenillé","tracteur_chenille.png","HASAD_ASSETS/VEHICLES/tracteur_chenille.png",1024,1024,true,true
+5,"VEHICLES","Moissonneuses-batteuses","Moissonneuse-batteuse conventionnelle","moissonneuse_batteuse_conventionnelle.png","HASAD_ASSETS/VEHICLES/moissonneuse_batteuse_conventionnelle.png",1024,1024,true,true
+6,"VEHICLES","Moissonneuses-batteuses","Moissonneuse-batteuse hybride","moissonneuse_batteuse_hybride.png","HASAD_ASSETS/VEHICLES/moissonneuse_batteuse_hybride.png",1024,1024,true,true
+7,"VEHICLES","Moissonneuses-batteuses","Moissonneuse-batteuse à chenilles","moissonneuse_batteuse_a_chenilles.png","HASAD_ASSETS/VEHICLES/moissonneuse_batteuse_a_chenilles.png",1024,1024,true,true
+8,"VEHICLES","Ensileuses et récolteuses fourragères","Ensileuse automotrice","ensileuse_automotrice.png","HASAD_ASSETS/VEHICLES/ensileuse_automotrice.png",1024,1024,true,true
+9,"VEHICLES","Ensileuses et récolteuses fourragères","Récolteuse-hacheuse","recolteuse_hacheuse.png","HASAD_ASSETS/VEHICLES/recolteuse_hacheuse.png",1024,1024,true,true
+10,"VEHICLES","Ensileuses et récolteuses fourragères","Faucheuse-conditionneuse automotrice","faucheuse_conditionneuse_automotrice.png","HASAD_ASSETS/VEHICLES/faucheuse_conditionneuse_automotrice.png",1024,1024,true,true
+11,"VEHICLES","Pulvérisateurs automoteurs","Pulvérisateur automoteur","pulverisateur_automoteur.png","HASAD_ASSETS/VEHICLES/pulverisateur_automoteur.png",1024,1024,true,true
+12,"VEHICLES","Pulvérisateurs automoteurs","Pulvérisateur traîné grande largeur","pulverisateur_traine_grande_largeur.png","HASAD_ASSETS/VEHICLES/pulverisateur_traine_grande_largeur.png",1024,1024,true,true
+13,"VEHICLES","Chargeurs télescopiques","Chargeur télescopique agricole","chargeur_telescopique_agricole.png","HASAD_ASSETS/VEHICLES/chargeur_telescopique_agricole.png",1024,1024,true,true
+14,"VEHICLES","Chargeurs télescopiques","Télescopique compact","telescopique_compact.png","HASAD_ASSETS/VEHICLES/telescopique_compact.png",1024,1024,true,true
+15,"VEHICLES","Chargeurs télescopiques","Chargeur sur pneus","chargeur_sur_pneus.png","HASAD_ASSETS/VEHICLES/chargeur_sur_pneus.png",1024,1024,true,true
+16,"VEHICLES","Chargeurs télescopiques","Chargeur compact chenillé","chargeur_compact_chenille.png","HASAD_ASSETS/VEHICLES/chargeur_compact_chenille.png",1024,1024,true,true
+17,"VEHICLES","Transport et logistique agricole","Remorque agricole","remorque_agricole.png","HASAD_ASSETS/VEHICLES/remorque_agricole.png",1024,1024,true,true
+18,"VEHICLES","Transport et logistique agricole","Benne agricole","benne_agricole.png","HASAD_ASSETS/VEHICLES/benne_agricole.png",1024,1024,true,true
+19,"VEHICLES","Transport et logistique agricole","Plateau fourrager","plateau_fourrager.png","HASAD_ASSETS/VEHICLES/plateau_fourrager.png",1024,1024,true,true
+20,"VEHICLES","Transport et logistique agricole","Camion de transport de grains","camion_de_transport_de_grains.png","HASAD_ASSETS/VEHICLES/camion_de_transport_de_grains.png",1024,1024,true,true
+21,"VEHICLES","Machines de récolte spécialisée","Arracheuse de pommes de terre","arracheuse_de_pommes_de_terre.png","HASAD_ASSETS/VEHICLES/arracheuse_de_pommes_de_terre.png",1024,1024,true,true
+22,"VEHICLES","Machines de récolte spécialisée","Arracheuse de betteraves","arracheuse_de_betteraves.png","HASAD_ASSETS/VEHICLES/arracheuse_de_betteraves.png",1024,1024,true,true
+23,"VEHICLES","Machines de récolte spécialisée","Récolteuse de fruits","recolteuse_de_fruits.png","HASAD_ASSETS/VEHICLES/recolteuse_de_fruits.png",1024,1024,true,true
+24,"VEHICLES","Machines de récolte spécialisée","Machine à vendanger","machine_a_vendanger.png","HASAD_ASSETS/VEHICLES/machine_a_vendanger.png",1024,1024,true,true
+25,"VEHICLES","Motoculteurs et motopompes","Motoculteur","motoculteur.png","HASAD_ASSETS/VEHICLES/motoculteur.png",1024,1024,true,true
+26,"VEHICLES","Motoculteurs et motopompes","Motobineuse","motobineuse.png","HASAD_ASSETS/VEHICLES/motobineuse.png",1024,1024,true,true
+27,"VEHICLES","Motoculteurs et motopompes","Motopompe","motopompe.png","HASAD_ASSETS/VEHICLES/motopompe.png",1024,1024,true,true
+28,"VEHICLES","Motoculteurs et motopompes","Débroussailleuse","debroussailleuse.png","HASAD_ASSETS/VEHICLES/debroussailleuse.png",1024,1024,true,true
+29,"VEHICLES","Quads et utilitaires agricoles","Quad agricole","quad_agricole.png","HASAD_ASSETS/VEHICLES/quad_agricole.png",1024,1024,true,true
+30,"VEHICLES","Quads et utilitaires agricoles","Pick-up utilitaire","pick_up_utilitaire.png","HASAD_ASSETS/VEHICLES/pick_up_utilitaire.png",1024,1024,true,true
+31,"VEHICLES","Quads et utilitaires agricoles","Buggy de ferme","buggy_de_ferme.png","HASAD_ASSETS/VEHICLES/buggy_de_ferme.png",1024,1024,true,true
+32,"VEHICLES","Outils et accessoires","Charrue","charrue.png","HASAD_ASSETS/VEHICLES/charrue.png",1024,1024,true,true
+33,"VEHICLES","Outils et accessoires","Herse","herse.png","HASAD_ASSETS/VEHICLES/herse.png",1024,1024,true,true
+34,"VEHICLES","Outils et accessoires","Godet agricole","godet_agricole.png","HASAD_ASSETS/VEHICLES/godet_agricole.png",1024,1024,true,true
+35,"VEHICLES","Outils et accessoires","Fourche à balles","fourche_a_balles.png","HASAD_ASSETS/VEHICLES/fourche_a_balles.png",1024,1024,true,true
+36,"VEHICLES","Outils et accessoires","Gyrobroyeur","gyrobroyeur.png","HASAD_ASSETS/VEHICLES/gyrobroyeur.png",1024,1024,true,true
+37,"VEHICLES","Outils et accessoires","Tarière","tariere.png","HASAD_ASSETS/VEHICLES/tariere.png",1024,1024,true,true
+38,"EQUIPMENT","Travail du sol","Charrue réversible","charrue_reversible.png","HASAD_ASSETS/EQUIPMENT/charrue_reversible.png",1024,1024,true,true
+39,"EQUIPMENT","Travail du sol","Herse rotative","herse_rotative.png","HASAD_ASSETS/EQUIPMENT/herse_rotative.png",1024,1024,true,true
+40,"EQUIPMENT","Travail du sol","Cultivateur","cultivateur.png","HASAD_ASSETS/EQUIPMENT/cultivateur.png",1024,1024,true,true
+41,"EQUIPMENT","Travail du sol","Rouleau agricole","rouleau_agricole.png","HASAD_ASSETS/EQUIPMENT/rouleau_agricole.png",1024,1024,true,true
+42,"EQUIPMENT","Semoirs et plantation","Semoir monograine","semoir_monograine.png","HASAD_ASSETS/EQUIPMENT/semoir_monograine.png",1024,1024,true,true
+43,"EQUIPMENT","Semoirs et plantation","Semoir en ligne","semoir_en_ligne.png","HASAD_ASSETS/EQUIPMENT/semoir_en_ligne.png",1024,1024,true,true
+44,"EQUIPMENT","Semoirs et plantation","Planteuse","planteuse.png","HASAD_ASSETS/EQUIPMENT/planteuse.png",1024,1024,true,true
+45,"EQUIPMENT","Pulvérisation et épandage","Pulvérisateur porté","pulverisateur_porte.png","HASAD_ASSETS/EQUIPMENT/pulverisateur_porte.png",1024,1024,true,true
+46,"EQUIPMENT","Pulvérisation et épandage","Pulvérisateur traîné","pulverisateur_traine.png","HASAD_ASSETS/EQUIPMENT/pulverisateur_traine.png",1024,1024,true,true
+47,"EQUIPMENT","Pulvérisation et épandage","Épandeur d'engrais","epandeur_d_engrais.png","HASAD_ASSETS/EQUIPMENT/epandeur_d_engrais.png",1024,1024,true,true
+48,"EQUIPMENT","Pulvérisation et épandage","Distributeur de fumier","distributeur_de_fumier.png","HASAD_ASSETS/EQUIPMENT/distributeur_de_fumier.png",1024,1024,true,true
+49,"EQUIPMENT","Fenaison et pressage","Faucheuse","faucheuse.png","HASAD_ASSETS/EQUIPMENT/faucheuse.png",1024,1024,true,true
+50,"EQUIPMENT","Fenaison et pressage","Andaineur","andaineur.png","HASAD_ASSETS/EQUIPMENT/andaineur.png",1024,1024,true,true
+51,"EQUIPMENT","Fenaison et pressage","Presse à balles rondes","presse_a_balles_rondes.png","HASAD_ASSETS/EQUIPMENT/presse_a_balles_rondes.png",1024,1024,true,true
+52,"EQUIPMENT","Fenaison et pressage","Enrubanneuse","enrubanneuse.png","HASAD_ASSETS/EQUIPMENT/enrubanneuse.png",1024,1024,true,true
+53,"EQUIPMENT","Irrigation et pompage","Enrouleur d'irrigation","enrouleur_d_irrigation.png","HASAD_ASSETS/EQUIPMENT/enrouleur_d_irrigation.png",1024,1024,true,true
+54,"EQUIPMENT","Irrigation et pompage","Pivot d'irrigation","pivot_d_irrigation.png","HASAD_ASSETS/EQUIPMENT/pivot_d_irrigation.png",1024,1024,true,true
+55,"EQUIPMENT","Irrigation et pompage","Motopompe agricole","motopompe_agricole.png","HASAD_ASSETS/EQUIPMENT/motopompe_agricole.png",1024,1024,true,true
+56,"EQUIPMENT","Irrigation et pompage","Asperseur","asperseur.png","HASAD_ASSETS/EQUIPMENT/asperseur.png",1024,1024,true,true
+57,"EQUIPMENT","Récolte et battage","Batteuse stationnaire","batteuse_stationnaire.png","HASAD_ASSETS/EQUIPMENT/batteuse_stationnaire.png",1024,1024,true,true
+58,"EQUIPMENT","Récolte et battage","Arracheuse de pommes de terre","arracheuse_de_pommes_de_terre.png","HASAD_ASSETS/EQUIPMENT/arracheuse_de_pommes_de_terre.png",1024,1024,true,true
+59,"EQUIPMENT","Récolte et battage","Récolteuse de betteraves","recolteuse_de_betteraves.png","HASAD_ASSETS/EQUIPMENT/recolteuse_de_betteraves.png",1024,1024,true,true
+60,"EQUIPMENT","Récolte et battage","Bec cueilleur","bec_cueilleur.png","HASAD_ASSETS/EQUIPMENT/bec_cueilleur.png",1024,1024,true,true
+61,"EQUIPMENT","Manutention agricole","Chariot élévateur","chariot_elevateur.png","HASAD_ASSETS/EQUIPMENT/chariot_elevateur.png",1024,1024,true,true
+62,"EQUIPMENT","Manutention agricole","Transpalette","transpalette.png","HASAD_ASSETS/EQUIPMENT/transpalette.png",1024,1024,true,true
+63,"EQUIPMENT","Manutention agricole","Remorque de manutention","remorque_de_manutention.png","HASAD_ASSETS/EQUIPMENT/remorque_de_manutention.png",1024,1024,true,true
+64,"EQUIPMENT","Élevage et stabulation","Mélangeuse","melangeuse.png","HASAD_ASSETS/EQUIPMENT/melangeuse.png",1024,1024,true,true
+65,"EQUIPMENT","Élevage et stabulation","Pailleuse","pailleuse.png","HASAD_ASSETS/EQUIPMENT/pailleuse.png",1024,1024,true,true
+66,"EQUIPMENT","Élevage et stabulation","Nettoyeur de stabulation","nettoyeur_de_stabulation.png","HASAD_ASSETS/EQUIPMENT/nettoyeur_de_stabulation.png",1024,1024,true,true
+67,"EQUIPMENT","Élevage et stabulation","Abreuvoir","abreuvoir.png","HASAD_ASSETS/EQUIPMENT/abreuvoir.png",1024,1024,true,true
+68,"EQUIPMENT","Serres et horticulture","Serre tunnel","serre_tunnel.png","HASAD_ASSETS/EQUIPMENT/serre_tunnel.png",1024,1024,true,true
+69,"EQUIPMENT","Serres et horticulture","Serre multichapelle","serre_multichapelle.png","HASAD_ASSETS/EQUIPMENT/serre_multichapelle.png",1024,1024,true,true
+70,"EQUIPMENT","Serres et horticulture","Table de culture","table_de_culture.png","HASAD_ASSETS/EQUIPMENT/table_de_culture.png",1024,1024,true,true
+71,"EQUIPMENT","Serres et horticulture","Système de chauffage","systeme_de_chauffage.png","HASAD_ASSETS/EQUIPMENT/systeme_de_chauffage.png",1024,1024,true,true
+72,"SEEDED_VEHICLES","Seeded Vehicles","John Deere 6120M","john_deere_6120m.png","HASAD_ASSETS/SEEDED_VEHICLES/john_deere_6120m.png",1024,1024,true,true
+73,"SEEDED_VEHICLES","Seeded Vehicles","Kubota M5091","kubota_m5091.png","HASAD_ASSETS/SEEDED_VEHICLES/kubota_m5091.png",1024,1024,true,true
+74,"SEEDED_VEHICLES","Seeded Vehicles","Claas Lexion 6600","claas_lexion_6600.png","HASAD_ASSETS/SEEDED_VEHICLES/claas_lexion_6600.png",1024,1024,true,true
+75,"SEEDED_VEHICLES","Seeded Vehicles","New Holland CR 8.90","new_holland_cr_8_90.png","HASAD_ASSETS/SEEDED_VEHICLES/new_holland_cr_8_90.png",1024,1024,true,true
+76,"SEEDED_VEHICLES","Seeded Vehicles","John Deere 8600i","john_deere_8600i.png","HASAD_ASSETS/SEEDED_VEHICLES/john_deere_8600i.png",1024,1024,true,true
+77,"SEEDED_VEHICLES","Seeded Vehicles","Case IH Patriot 4430","case_ih_patriot_4430.png","HASAD_ASSETS/SEEDED_VEHICLES/case_ih_patriot_4430.png",1024,1024,true,true
+78,"SEEDED_VEHICLES","Seeded Vehicles","Manitou MLT 737","manitou_mlt_737.png","HASAD_ASSETS/SEEDED_VEHICLES/manitou_mlt_737.png",1024,1024,true,true
+79,"SEEDED_VEHICLES","Seeded Vehicles","JCB 416S","jcb_416s.png","HASAD_ASSETS/SEEDED_VEHICLES/jcb_416s.png",1024,1024,true,true
+80,"SEEDED_VEHICLES","Seeded Vehicles","Krone TX 460","krone_tx_460.png","HASAD_ASSETS/SEEDED_VEHICLES/krone_tx_460.png",1024,1024,true,true
+81,"SEEDED_VEHICLES","Seeded Vehicles","Grimme SE 150-60","grimme_se_150_60.png","HASAD_ASSETS/SEEDED_VEHICLES/grimme_se_150_60.png",1024,1024,true,true
+82,"SEEDED_VEHICLES","Seeded Vehicles","Husqvarna T 600","husqvarna_t_600.png","HASAD_ASSETS/SEEDED_VEHICLES/husqvarna_t_600.png",1024,1024,true,true
+83,"SEEDED_VEHICLES","Seeded Vehicles","Polaris Ranger Diesel","polaris_ranger_diesel.png","HASAD_ASSETS/SEEDED_VEHICLES/polaris_ranger_diesel.png",1024,1024,true,true
+84,"SEEDED_EQUIPMENTS","Seeded Equipments","Lemken Juwel 8","lemken_juwel_8.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/lemken_juwel_8.png",1024,1024,true,true
+85,"SEEDED_EQUIPMENTS","Seeded Equipments","Kuhn HR 4004","kuhn_hr_4004.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/kuhn_hr_4004.png",1024,1024,true,true
+86,"SEEDED_EQUIPMENTS","Seeded Equipments","Vaderstad Tempo V6","vaderstad_tempo_v6.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/vaderstad_tempo_v6.png",1024,1024,true,true
+87,"SEEDED_EQUIPMENTS","Seeded Equipments","Checchi & Magli Wolf 4","checchi_magli_wolf_4.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/checchi_magli_wolf_4.png",1024,1024,true,true
+88,"SEEDED_EQUIPMENTS","Seeded Equipments","Amazone UX 4200","amazone_ux_4200.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/amazone_ux_4200.png",1024,1024,true,true
+89,"SEEDED_EQUIPMENTS","Seeded Equipments","Rauch Axis 50.2","rauch_axis_50_2.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/rauch_axis_50_2.png",1024,1024,true,true
+90,"SEEDED_EQUIPMENTS","Seeded Equipments","Krone EasyCut 3200","krone_easycut_3200.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/krone_easycut_3200.png",1024,1024,true,true
+91,"SEEDED_EQUIPMENTS","Seeded Equipments","New Holland Roll-Belt 150","new_holland_roll_belt_150.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/new_holland_roll_belt_150.png",1024,1024,true,true
+92,"SEEDED_EQUIPMENTS","Seeded Equipments","Irrifrance Optima 1100","irrifrance_optima_1100.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/irrifrance_optima_1100.png",1024,1024,true,true
+93,"SEEDED_EQUIPMENTS","Seeded Equipments","CLAAS Dominator 98","claas_dominator_98.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/claas_dominator_98.png",1024,1024,true,true
+94,"SEEDED_EQUIPMENTS","Seeded Equipments","Manitou MI 25","manitou_mi_25.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/manitou_mi_25.png",1024,1024,true,true
+95,"SEEDED_EQUIPMENTS","Seeded Equipments","Kuhn Profile 1880","kuhn_profile_1880.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/kuhn_profile_1880.png",1024,1024,true,true
+96,"SEEDED_EQUIPMENTS","Seeded Equipments","Richel Serre Tunnel 8m","richel_serre_tunnel_8m.png","HASAD_ASSETS/SEEDED_EQUIPMENTS/richel_serre_tunnel_8m.png",1024,1024,true,true
+97,"SEEDED_ATTACHMENTS","Seeded Attachments","Lemken Juwel 8","lemken_juwel_8.png","HASAD_ASSETS/SEEDED_ATTACHMENTS/lemken_juwel_8.png",1024,1024,true,true
+98,"SEEDED_ATTACHMENTS","Seeded Attachments","Kuhn HR 3003","kuhn_hr_3003.png","HASAD_ASSETS/SEEDED_ATTACHMENTS/kuhn_hr_3003.png",1024,1024,true,true
+99,"SEEDED_ATTACHMENTS","Seeded Attachments","Manitou Godet 2m3","manitou_godet_2m3.png","HASAD_ASSETS/SEEDED_ATTACHMENTS/manitou_godet_2m3.png",1024,1024,true,true
+100,"SEEDED_ATTACHMENTS","Seeded Attachments","JCB Fourche balles","jcb_fourche_balles.png","HASAD_ASSETS/SEEDED_ATTACHMENTS/jcb_fourche_balles.png",1024,1024,true,true
+101,"SEEDED_ATTACHMENTS","Seeded Attachments","Kuhn BP 240","kuhn_bp_240.png","HASAD_ASSETS/SEEDED_ATTACHMENTS/kuhn_bp_240.png",1024,1024,true,true
+102,"SEEDED_ATTACHMENTS","Seeded Attachments","Auger TA 300","auger_ta_300.png","HASAD_ASSETS/SEEDED_ATTACHMENTS/auger_ta_300.png",1024,1024,true,true

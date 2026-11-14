@@ -1,0 +1,13 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# NOTE: ajrli-app is a PRIVATE backup repo. The release keystore
+# (android/keystore/ajrli-release.jks) and its passwords
+# (android/key.properties) are intentionally tracked so the signing key
+# survives the loss of this computer. If this repo is ever made public,
+# remove both and rotate the key.
