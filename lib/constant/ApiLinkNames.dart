@@ -3,7 +3,7 @@ class ApiLinkNames {
   ///
   /// Local LAN default. For cloud builds override it without touching code:
   ///   flutter build apk --release \
-  ///     --dart-define=API_BASE_URL=https://hasad-api.onrender.com
+  ///     --dart-define=API_BASE_URL=https://hasad-backend-3ika.onrender.com
   static const String server = String.fromEnvironment(
     'API_BASE_URL',
     defaultValue: "http://192.168.1.7:8000",
